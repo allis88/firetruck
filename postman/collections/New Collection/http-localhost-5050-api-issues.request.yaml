@@ -1,0 +1,14 @@
+$kind: http-request
+name: http://localhost:5050/api/issues
+description: ""
+url: http://localhost:5050/api/issues?
+method: POST
+queryParams:
+  - key: ""
+    value: null
+    disabled: false
+    description: ""
+body:
+  type: json
+  content: ""
+order: 1000
